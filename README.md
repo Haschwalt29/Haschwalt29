@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on **Sentinel OS – a distributed intelligence system for monitoring global instability.**  
 - 🌱 I’m exploring **AI/ML, Flask, TensorFlow, and full-stack web development.**  
 - 💬 Ask me about **MERN stack, Python, and intelligent systems.**  
-- 🎯 Goal: **Build impactful, scalable AI systems **  
+- 🎯 Goal: **Build impactful, scalable AI systems**  
 - ⚡ Fun fact: I love creating futuristic projects that blend technology and storytelling.  
 
 ---
